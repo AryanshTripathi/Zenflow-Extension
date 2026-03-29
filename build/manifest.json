@@ -1,0 +1,10 @@
+{
+	"manifest_version": 3,
+	"name": "ZenFlow: Where Clarity Meets Momentum",
+	"version": "1.0.0",
+	"description": "ZenFlow is a productivity extension that helps you stay focused and keeps track of your tasks.",
+	"action": {},
+	"chrome_url_overrides": {
+		"newtab": "index.html"
+	}
+}
