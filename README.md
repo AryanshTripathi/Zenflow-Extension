@@ -37,7 +37,7 @@ Secure sign-up and login with support for **Email + Username**. All user data is
 
 ---
 
-## 🗺️ Roadmap
+## 🗺️ Roadmap Ahead
 
 Planned features for upcoming releases:
 
@@ -47,55 +47,5 @@ Planned features for upcoming releases:
 - **🔁 Recurring Tasks** — Support for daily, weekly, and custom-interval recurring tasks that auto-regenerate on schedule.
 
 ---
-
-## 🚀 Getting Started
-
-### Prerequisites
-- Node.js v18+
-- A Firebase project
-
-### Installation
-
-```bash
-git clone https://github.com/AryanshTripathi/Zenflow-Extension.git
-cd Zenflow-Extension/client/zenflow
-npm install
-```
-
-### Configure Firebase
-
-Create a `.env` file in the project root:
-
-```env
-VITE_FIREBASE_API_KEY=your_api_key
-VITE_FIREBASE_AUTH_DOMAIN=your_auth_domain
-VITE_FIREBASE_PROJECT_ID=your_project_id
-VITE_FIREBASE_STORAGE_BUCKET=your_storage_bucket
-VITE_FIREBASE_MESSAGING_SENDER_ID=your_messaging_sender_id
-VITE_FIREBASE_APP_ID=your_app_id
-```
-
-### Run Locally
-
-```bash
-npm run dev
-```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser.
-
----
-
-## 📜 Scripts
-
-| Command | Description |
-|---|---|
-| `npm run dev` | Start development server |
-| `npm run build` | Build for production |
-| `npm run preview` | Preview production build |
-| `npm run lint` | Run ESLint |
-
----
-
-## 📄 License
 
 MIT License
